@@ -1,7 +1,10 @@
 
 ### Olá! Me chamo Adriano!
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drirodri&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-eight-delta-18.vercel.app/api?username=drirodri&show_icons=true&theme=dracula)
+
 
 ## Tecnologias que estudo atualmente:
 <div style="display: inline_block"> <br/>
