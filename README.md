@@ -1,5 +1,5 @@
 
-# Olá! Me chamo Adriano! <br/>
+# Olá, me chamo Adriano! <br/>
 
 Sou apaixonado por linguagens e, depois de aventurar-me nas linguagens humanas, mergulho nas linguagens de programação. Atualmente com o estudo focado em FrontEnd (HTML,CSS,JavaScript).
 Você pode conferir meu aprendizado através do meu [portfolio](https://drirodri.github.io), o qual tento manter sempre atualizado de acordo com os conhecimentos adquiridos, em breve adicionarei novos projetos.
