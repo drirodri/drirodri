@@ -8,8 +8,11 @@ Você pode conferir meu aprendizado através do meu [portfolio](https://drirodri
 - 👨🏻‍🎓 Análise e Desenvolvimento de Sistemas - <strong>Estácio</strong> 1/6 <br/>
 - 🎓 Letras: Português/Inglês - <strong>UFRJ</strong> ✅
 
+<div atyle="display:inline-block">
+    <img alt="stats" src="https://github-readme-stats-ruddy-gamma-52.vercel.app/api?username=drirodri&show_icons=true&theme=dracula"/>
+    <img alt="languageStats" src="https://github-readme-stats-ruddy-gamma-52.vercel.app/api/top-langs/?username=drirodri&layout=compact&theme=dracula"/>
+</div>
 
-<img alt="stats" src="https://github-readme-stats-ruddy-gamma-52.vercel.app/api?username=drirodri&show_icons=true&theme=dracula)"/>
 
 ### Tecnologias que estudo atualmente:
 <div style="display: inline_block"> <br/>
