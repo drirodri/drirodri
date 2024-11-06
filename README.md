@@ -5,7 +5,7 @@ Sou apaixonado por linguagens e, depois de aventurar-me nas linguagens humanas, 
 Você pode conferir meu aprendizado através do meu [portfolio](https://drirodri.github.io), o qual tento manter sempre atualizado de acordo com os conhecimentos adquiridos, em breve adicionarei novos projetos.
 
 ### Formação:
-- 👨🏻‍🎓 Análise e Desenvolvimento de Sistemas - <strong>Estácio</strong> 1/6 <br/>
+- 👨🏻‍🎓 Análise e Desenvolvimento de Sistemas - <strong>Estácio</strong> 2/6 <br/>
 - 🎓 Letras: Português/Inglês - <strong>UFRJ</strong> ✅
 
 <div atyle="display:inline-block">
