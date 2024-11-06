@@ -9,8 +9,8 @@ Você pode conferir meu aprendizado através do meu [portfolio](https://drirodri
 - 🎓 Letras: Português/Inglês - <strong>UFRJ</strong> ✅
 
 <div atyle="display:inline-block">
-    <img alt="stats" src="https://github-readme-stats-adriano-rodrigues-projects-8e3baac3.vercel.app/api?username=drirodri&show_icons=true&theme=dracula"/>
-    <img align="top" alt="languageStats" src="https://github-readme-stats-adriano-rodrigues-projects-8e3baac3.vercel.app/api/top-langs/?username=drirodri&layout=compact&theme=dracula"/>
+    <img alt="stats" src="https://github-readme-stats-omega-two-23.vercel.app/api?username=drirodri&show_icons=true&theme=dracula"/>
+    <img align="top" alt="languageStats" src="https://github-readme-stats-omega-two-23.vercel.app/api/top-langs/?username=drirodri&layout=compact&theme=dracula"/>
 </div>
 
 
