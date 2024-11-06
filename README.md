@@ -12,7 +12,6 @@ Você pode conferir meu aprendizado através do meu [portfolio](https://drirodri
     <img alt="stats" src="https://dri-readme-stats-git-master-adriano-rodrigues-projects-8e3baac3.vercel.app/api?username=drirodri&show_icons=true&theme=dracula"/>
     <img align="top" alt="languageStats" src="https://dri-readme-stats-git-master-adriano-rodrigues-projects-8e3baac3.vercel.app/api/top-langs/?username=drirodri"/>
 </div>
-[![Top Langs](https://dri-readme-stats-git-master-adriano-rodrigues-projects-8e3baac3.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tecnologias que estudo atualmente:
