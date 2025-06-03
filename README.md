@@ -36,8 +36,9 @@ Confira meus projetos e experiências em meu [portfólio online](https://drirodr
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/adriano-rodrigues/)
-- [E-mail](mailto:seu-email@exemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/drirodri/)
+- [E-mail](mailto:adriano.rsilva97@gmail.com)
+- Discord: driroodri
 
 ---
 
