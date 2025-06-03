@@ -1,15 +1,16 @@
+# Adriano Rodrigues
 
-# Olá, me chamo Adriano! <br/>
+Bem-vindo ao meu perfil!  
+Sou apaixonado por linguagens – humanas e de programação. Após me formar em Letras, direcionei minha carreira para a área de tecnologia, com foco em desenvolvimento Front-End.
 
-Sou apaixonado por linguagens e, depois de aventurar-me nas linguagens humanas, mergulho nas linguagens de programação. Atualmente com o estudo focado em FrontEnd (HTML,CSS,JavaScript).
-Você pode conferir meu aprendizado através do meu <a href="https://drirodri.netlify.app/pt-BR" target="_blank" rel="noopener noreferrer">portfolio</a>, o qual tento manter sempre atualizado de acordo com os conhecimentos adquiridos, em breve adicionarei novos projetos.
+## 👨🏻‍💻 Sobre mim
 
-### Formação:
-- 👨🏻‍🎓 Análise e Desenvolvimento de Sistemas - <strong>Estácio</strong> 3/6 <br/>
-- 🎓 Letras: Português/Inglês - <strong>UFRJ</strong> ✅
+- Atualmente estudante de **Análise e Desenvolvimento de Sistemas** na Estácio (3º período).
+- Graduado em **Letras: Português/Inglês** pela UFRJ.
+- Interesse especial em desenvolvimento Front-End, interfaces modernas e acessíveis, e melhores práticas de desenvolvimento web.
 
+## 🚀 Tecnologias & Ferramentas
 
-### Tecnologias:
 <div style="display: inline_block">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -23,3 +24,21 @@ Você pode conferir meu aprendizado através do meu <a href="https://drirodri.ne
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
+
+## 📚 Formação
+
+- **Análise e Desenvolvimento de Sistemas** — Estácio (em andamento)
+- **Letras: Português/Inglês** — UFRJ (concluído)
+
+## 🌐 Portfólio
+
+Confira meus projetos e experiências em meu [portfólio online](https://drirodri.netlify.app/pt-BR).
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/adriano-rodrigues/)
+- [E-mail](mailto:seu-email@exemplo.com)
+
+---
+
+Busco constantemente aprimorar meus conhecimentos e contribuir com a comunidade de desenvolvedores. Fique à vontade para entrar em contato ou sugerir colaborações!
